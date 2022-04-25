@@ -1,0 +1,14 @@
+javascript
+html
+css
+vuejs
+git
+github
+debugging
+devtools
+Gulp & Grunt
+bash
+chartjs
+bootstrap
+gsap
+Puppeteer
